@@ -8,9 +8,9 @@
 
 Links importantes:
 
-*[Markdown Docs](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+* [Markdown Docs](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-*[HTML Docs](https://www.w3schools.com/tags/)
+* [HTML Docs](https://www.w3schools.com/tags/)
 
 
 
